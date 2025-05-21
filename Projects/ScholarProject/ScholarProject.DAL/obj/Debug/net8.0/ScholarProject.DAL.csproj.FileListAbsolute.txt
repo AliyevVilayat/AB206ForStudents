@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ScholarProject\ScholarProject.DAL\bin\Debug\net8.0\ScholarProject.DAL.deps.json
+C:\Users\User\source\repos\ScholarProject\ScholarProject.DAL\bin\Debug\net8.0\ScholarProject.DAL.dll
+C:\Users\User\source\repos\ScholarProject\ScholarProject.DAL\bin\Debug\net8.0\ScholarProject.DAL.pdb
+C:\Users\User\source\repos\ScholarProject\ScholarProject.DAL\obj\Debug\net8.0\ScholarProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ScholarProject\ScholarProject.DAL\obj\Debug\net8.0\ScholarProject.DAL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ScholarProject\ScholarProject.DAL\obj\Debug\net8.0\ScholarProject.DAL.AssemblyInfo.cs
+C:\Users\User\source\repos\ScholarProject\ScholarProject.DAL\obj\Debug\net8.0\ScholarProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ScholarProject\ScholarProject.DAL\obj\Debug\net8.0\ScholarProject.DAL.dll
+C:\Users\User\source\repos\ScholarProject\ScholarProject.DAL\obj\Debug\net8.0\refint\ScholarProject.DAL.dll
+C:\Users\User\source\repos\ScholarProject\ScholarProject.DAL\obj\Debug\net8.0\ScholarProject.DAL.pdb
+C:\Users\User\source\repos\ScholarProject\ScholarProject.DAL\obj\Debug\net8.0\ref\ScholarProject.DAL.dll
+C:\Users\User\source\repos\ScholarProject\ScholarProject.DAL\bin\Debug\net8.0\ScholarProject.DAL.runtimeconfig.json
+C:\Users\User\source\repos\ScholarProject\ScholarProject.DAL\obj\Debug\net8.0\ScholarProject.DAL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ScholarProject\ScholarProject.DAL\obj\Debug\net8.0\ScholarProject.DAL.genruntimeconfig.cache

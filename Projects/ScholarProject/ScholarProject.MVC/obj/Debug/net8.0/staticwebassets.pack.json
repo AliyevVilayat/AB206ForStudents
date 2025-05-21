@@ -1,0 +1,137 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\account\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\css\\style.css",
+      "PackagePath": "staticwebassets\\account\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\account\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\account\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\account\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\js\\main.js",
+      "PackagePath": "staticwebassets\\account\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\account\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\account\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\account\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\account\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\account\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\account\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\account\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\account\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\account\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\account\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\account\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\account\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\account\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\account\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\account\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\account\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\account\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\account\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\account\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\account\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\account\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\account\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ScholarProject.MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ScholarProject.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ScholarProject.MVC.props",
+      "PackagePath": "build\\ScholarProject.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ScholarProject.MVC.props",
+      "PackagePath": "buildMultiTargeting\\ScholarProject.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ScholarProject.MVC.props",
+      "PackagePath": "buildTransitive\\ScholarProject.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

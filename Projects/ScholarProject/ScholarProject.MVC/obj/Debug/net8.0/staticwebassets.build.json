@@ -1,0 +1,2906 @@
+{
+  "Version": 1,
+  "Hash": "Crb2Y8lH7yVv3KAuDo+u/7rLspaX0qfuX8VlACHOgQ8=",
+  "Source": "ScholarProject.MVC",
+  "BasePath": "_content/ScholarProject.MVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ScholarProject.MVC\\wwwroot",
+      "Source": "ScholarProject.MVC",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\css\\bootstrap.min.css",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1w625hiout",
+      "Integrity": "YbjNkICva1EsuZ+G1lFe2KvEsVlKJ35wpdhietxEzmc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\css\\style.css",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y2pmz3yw93",
+      "Integrity": "hsiRfpUF3yqhmoy03kGfbv1pqiNbLYAg0bWumkTOoFY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\img\\testimonial-1.jpg",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/img/testimonial-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "urxekhjru9",
+      "Integrity": "hvV+g3036s38E7lbHarlNY5qA65G4stWHW0cP5kN9Gw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\img\\testimonial-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\img\\testimonial-2.jpg",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/img/testimonial-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d2587veb1l",
+      "Integrity": "W1EYirz8mmXhF3xFaZcUTT/Qh5S8+YQDiYPnXvS7s7c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\img\\testimonial-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\img\\user.jpg",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/img/user#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "awjszm7d5w",
+      "Integrity": "RuGoYD801+jxwSKcDIDk1DxVNw62bCFBW49NNFRr6n0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\img\\user.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\js\\main.js",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/js/main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u83rq9agdi",
+      "Integrity": "Lgc9TV9rnzs3psjig0rWehoom5qYVbDptOaCui6wY6M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\js\\main.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\chart\\chart.min.js",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/chart/chart.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rmr6h77cha",
+      "Integrity": "Y26AMvaIfrZ1EQU49pf6H4QzVTrOI8m9wQYKkftBt4s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\easing\\easing.js",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/easing/easing#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4cpzj38bla",
+      "Integrity": "/HWND9eB1wfx6H806WNb0svB4wOEHlfFF0gEVto2bns=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\easing\\easing.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\easing\\easing.min.js",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/easing/easing.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "irrmrafh02",
+      "Integrity": "DsmK31k+vMAb7GCx9JTazUdSKr/vkDinFBAdg/ReFl0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/owlcarousel/assets/ajax-loader#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uwe6z5aqkv",
+      "Integrity": "Ahj8xYnkAzmvsPtsQtJZgNm9ykZg+lHxIrRmY+pZ2Ug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/owlcarousel/assets/owl.carousel#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fynx4m6ffa",
+      "Integrity": "h7NPLBxMMPcEeO/BDGwCb5MRAZ8CgVcxRxfm3fpMH0s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/owlcarousel/assets/owl.carousel.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j3wy3vomxf",
+      "Integrity": "AWqwvQ3kg5aA5KcXpX25sYKowsX97sTCTbeo33Yfyk0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/owlcarousel/assets/owl.theme.default#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3sqe7mmf4b",
+      "Integrity": "7eFGZ5XrQEKmIngaS18OjhKpMle23F3q596q9NKzOl4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/owlcarousel/assets/owl.theme.default.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bvb3mcnxs0",
+      "Integrity": "KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/owlcarousel/assets/owl.theme.green#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rstaz3qrjg",
+      "Integrity": "WwSUl+m10JZDJRSqyYAdp4i7Q+xHzUU63IQRx6ZuG5U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/owlcarousel/assets/owl.theme.green.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1ktijcimzc",
+      "Integrity": "31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/owlcarousel/assets/owl.video.play#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s8sku8kfko",
+      "Integrity": "BDYEVob93xDMu+JWjgy/+0V+fefUPREVwAVugelxSf8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\LICENSE",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/owlcarousel/LICENSE#[.{fingerprint}]?",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x0d6diem58",
+      "Integrity": "j2NdanE/1fPIlaS8ByYIJIservW2YwW7XoxRK6D56w8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\owlcarousel\\LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\owl.carousel.js",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/owlcarousel/owl.carousel#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8vqiqdzfsy",
+      "Integrity": "hPYqnq606IVznFwz1LW0eYgPSxG9O/wyIZT9gK9NvWQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\owl.carousel.min.js",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/owlcarousel/owl.carousel.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xre24ck5s9",
+      "Integrity": "s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/tempusdominus/css/tempusdominus-bootstrap-4#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8n2dly420e",
+      "Integrity": "XPTBwC3SBoWHSmKasAk01c08M6sIA5gF5+sRxqak2Qs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/tempusdominus/css/tempusdominus-bootstrap-4.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h0uehoon70",
+      "Integrity": "jx/a+M/f+IK6cJ8ONDcOiagx3xAbuPuysU29dYjB2do=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\js\\moment.min.js",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/tempusdominus/js/moment.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u3a2f625v3",
+      "Integrity": "VrmtNHAdGzjNsUNtWYG55xxE9xDTz4gF63x/prKXKH0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/tempusdominus/js/moment-timezone.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eeexwixyll",
+      "Integrity": "Jv+5wei4zCofi7M6D+HbGcXbFBOsshNv+aIJSodBGhM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/tempusdominus/js/tempusdominus-bootstrap-4#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "94qvvqzebk",
+      "Integrity": "+WyHOpyfq51D1gs4h2b31GTCneSYQ22QLTmtEdjVvqA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/tempusdominus/js/tempusdominus-bootstrap-4.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5bii02sqr4",
+      "Integrity": "z0oKYg6xiLq3yJGsp/LsY9XykbweQlHl42jHv2XTBz4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\waypoints\\links.php",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/waypoints/links#[.{fingerprint}]?.php",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s65facuhh6",
+      "Integrity": "/B0WGFVk+67I8B6rSY+WPQ+knhNbPz76gt6aXH8WPOU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\waypoints\\links.php"
+    },
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\waypoints\\waypoints.min.js",
+      "SourceId": "ScholarProject.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\",
+      "BasePath": "_content/ScholarProject.MVC",
+      "RelativePath": "account/lib/waypoints/waypoints.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uydiqv09h2",
+      "Integrity": "No2qtnsaWysoAu27rHmiqkupkqLr+cZ7mK14TYAEAYw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\account\\lib\\waypoints\\waypoints.min.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "account/css/bootstrap.min.1w625hiout.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YbjNkICva1EsuZ+G1lFe2KvEsVlKJ35wpdhietxEzmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1w625hiout"
+        },
+        {
+          "Name": "label",
+          "Value": "account/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YbjNkICva1EsuZ+G1lFe2KvEsVlKJ35wpdhietxEzmc="
+        }
+      ]
+    },
+    {
+      "Route": "account/css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164122"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YbjNkICva1EsuZ+G1lFe2KvEsVlKJ35wpdhietxEzmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YbjNkICva1EsuZ+G1lFe2KvEsVlKJ35wpdhietxEzmc="
+        }
+      ]
+    },
+    {
+      "Route": "account/css/style.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hsiRfpUF3yqhmoy03kGfbv1pqiNbLYAg0bWumkTOoFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hsiRfpUF3yqhmoy03kGfbv1pqiNbLYAg0bWumkTOoFY="
+        }
+      ]
+    },
+    {
+      "Route": "account/css/style.y2pmz3yw93.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hsiRfpUF3yqhmoy03kGfbv1pqiNbLYAg0bWumkTOoFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y2pmz3yw93"
+        },
+        {
+          "Name": "label",
+          "Value": "account/css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hsiRfpUF3yqhmoy03kGfbv1pqiNbLYAg0bWumkTOoFY="
+        }
+      ]
+    },
+    {
+      "Route": "account/img/testimonial-1.jpg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\img\\testimonial-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hvV+g3036s38E7lbHarlNY5qA65G4stWHW0cP5kN9Gw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hvV+g3036s38E7lbHarlNY5qA65G4stWHW0cP5kN9Gw="
+        }
+      ]
+    },
+    {
+      "Route": "account/img/testimonial-1.urxekhjru9.jpg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\img\\testimonial-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hvV+g3036s38E7lbHarlNY5qA65G4stWHW0cP5kN9Gw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "urxekhjru9"
+        },
+        {
+          "Name": "label",
+          "Value": "account/img/testimonial-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hvV+g3036s38E7lbHarlNY5qA65G4stWHW0cP5kN9Gw="
+        }
+      ]
+    },
+    {
+      "Route": "account/img/testimonial-2.d2587veb1l.jpg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\img\\testimonial-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W1EYirz8mmXhF3xFaZcUTT/Qh5S8+YQDiYPnXvS7s7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d2587veb1l"
+        },
+        {
+          "Name": "label",
+          "Value": "account/img/testimonial-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W1EYirz8mmXhF3xFaZcUTT/Qh5S8+YQDiYPnXvS7s7c="
+        }
+      ]
+    },
+    {
+      "Route": "account/img/testimonial-2.jpg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\img\\testimonial-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W1EYirz8mmXhF3xFaZcUTT/Qh5S8+YQDiYPnXvS7s7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W1EYirz8mmXhF3xFaZcUTT/Qh5S8+YQDiYPnXvS7s7c="
+        }
+      ]
+    },
+    {
+      "Route": "account/img/user.awjszm7d5w.jpg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\img\\user.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1794"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RuGoYD801+jxwSKcDIDk1DxVNw62bCFBW49NNFRr6n0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "awjszm7d5w"
+        },
+        {
+          "Name": "label",
+          "Value": "account/img/user.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RuGoYD801+jxwSKcDIDk1DxVNw62bCFBW49NNFRr6n0="
+        }
+      ]
+    },
+    {
+      "Route": "account/img/user.jpg",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\img\\user.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1794"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RuGoYD801+jxwSKcDIDk1DxVNw62bCFBW49NNFRr6n0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RuGoYD801+jxwSKcDIDk1DxVNw62bCFBW49NNFRr6n0="
+        }
+      ]
+    },
+    {
+      "Route": "account/js/main.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5700"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lgc9TV9rnzs3psjig0rWehoom5qYVbDptOaCui6wY6M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lgc9TV9rnzs3psjig0rWehoom5qYVbDptOaCui6wY6M="
+        }
+      ]
+    },
+    {
+      "Route": "account/js/main.u83rq9agdi.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5700"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lgc9TV9rnzs3psjig0rWehoom5qYVbDptOaCui6wY6M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u83rq9agdi"
+        },
+        {
+          "Name": "label",
+          "Value": "account/js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lgc9TV9rnzs3psjig0rWehoom5qYVbDptOaCui6wY6M="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/chart/chart.min.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\chart\\chart.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y26AMvaIfrZ1EQU49pf6H4QzVTrOI8m9wQYKkftBt4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y26AMvaIfrZ1EQU49pf6H4QzVTrOI8m9wQYKkftBt4s="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/chart/chart.min.rmr6h77cha.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\chart\\chart.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y26AMvaIfrZ1EQU49pf6H4QzVTrOI8m9wQYKkftBt4s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rmr6h77cha"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/chart/chart.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y26AMvaIfrZ1EQU49pf6H4QzVTrOI8m9wQYKkftBt4s="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/easing/easing.4cpzj38bla.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\easing\\easing.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4092"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/HWND9eB1wfx6H806WNb0svB4wOEHlfFF0gEVto2bns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4cpzj38bla"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/easing/easing.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/HWND9eB1wfx6H806WNb0svB4wOEHlfFF0gEVto2bns="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/easing/easing.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\easing\\easing.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4092"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/HWND9eB1wfx6H806WNb0svB4wOEHlfFF0gEVto2bns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/HWND9eB1wfx6H806WNb0svB4wOEHlfFF0gEVto2bns="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/easing/easing.min.irrmrafh02.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\easing\\easing.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DsmK31k+vMAb7GCx9JTazUdSKr/vkDinFBAdg/ReFl0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "irrmrafh02"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/easing/easing.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DsmK31k+vMAb7GCx9JTazUdSKr/vkDinFBAdg/ReFl0="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/easing/easing.min.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\easing\\easing.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DsmK31k+vMAb7GCx9JTazUdSKr/vkDinFBAdg/ReFl0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DsmK31k+vMAb7GCx9JTazUdSKr/vkDinFBAdg/ReFl0="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/assets/ajax-loader.gif",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ahj8xYnkAzmvsPtsQtJZgNm9ykZg+lHxIrRmY+pZ2Ug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ahj8xYnkAzmvsPtsQtJZgNm9ykZg+lHxIrRmY+pZ2Ug="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/assets/ajax-loader.uwe6z5aqkv.gif",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ahj8xYnkAzmvsPtsQtJZgNm9ykZg+lHxIrRmY+pZ2Ug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uwe6z5aqkv"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/owlcarousel/assets/ajax-loader.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ahj8xYnkAzmvsPtsQtJZgNm9ykZg+lHxIrRmY+pZ2Ug="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/assets/owl.carousel.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h7NPLBxMMPcEeO/BDGwCb5MRAZ8CgVcxRxfm3fpMH0s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h7NPLBxMMPcEeO/BDGwCb5MRAZ8CgVcxRxfm3fpMH0s="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/assets/owl.carousel.fynx4m6ffa.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h7NPLBxMMPcEeO/BDGwCb5MRAZ8CgVcxRxfm3fpMH0s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fynx4m6ffa"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/owlcarousel/assets/owl.carousel.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h7NPLBxMMPcEeO/BDGwCb5MRAZ8CgVcxRxfm3fpMH0s="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/assets/owl.carousel.min.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AWqwvQ3kg5aA5KcXpX25sYKowsX97sTCTbeo33Yfyk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AWqwvQ3kg5aA5KcXpX25sYKowsX97sTCTbeo33Yfyk0="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/assets/owl.carousel.min.j3wy3vomxf.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AWqwvQ3kg5aA5KcXpX25sYKowsX97sTCTbeo33Yfyk0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j3wy3vomxf"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/owlcarousel/assets/owl.carousel.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AWqwvQ3kg5aA5KcXpX25sYKowsX97sTCTbeo33Yfyk0="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/assets/owl.theme.default.3sqe7mmf4b.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7eFGZ5XrQEKmIngaS18OjhKpMle23F3q596q9NKzOl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3sqe7mmf4b"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/owlcarousel/assets/owl.theme.default.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7eFGZ5XrQEKmIngaS18OjhKpMle23F3q596q9NKzOl4="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/assets/owl.theme.default.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1303"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7eFGZ5XrQEKmIngaS18OjhKpMle23F3q596q9NKzOl4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7eFGZ5XrQEKmIngaS18OjhKpMle23F3q596q9NKzOl4="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/assets/owl.theme.default.min.bvb3mcnxs0.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bvb3mcnxs0"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/owlcarousel/assets/owl.theme.default.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KWs9jp+jZzOZmmnW5jC8Y2HqI9rajJig5I00un99DtI="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/assets/owl.theme.green.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WwSUl+m10JZDJRSqyYAdp4i7Q+xHzUU63IQRx6ZuG5U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WwSUl+m10JZDJRSqyYAdp4i7Q+xHzUU63IQRx6ZuG5U="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/assets/owl.theme.green.min.1ktijcimzc.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ktijcimzc"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/owlcarousel/assets/owl.theme.green.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/assets/owl.theme.green.min.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-31YwmAV/78ytUf3h39V8ucjb5m8PXlJBCPlPqjgdMCM="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/assets/owl.theme.green.rstaz3qrjg.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WwSUl+m10JZDJRSqyYAdp4i7Q+xHzUU63IQRx6ZuG5U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rstaz3qrjg"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/owlcarousel/assets/owl.theme.green.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WwSUl+m10JZDJRSqyYAdp4i7Q+xHzUU63IQRx6ZuG5U="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/assets/owl.video.play.png",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BDYEVob93xDMu+JWjgy/+0V+fefUPREVwAVugelxSf8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BDYEVob93xDMu+JWjgy/+0V+fefUPREVwAVugelxSf8="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/assets/owl.video.play.s8sku8kfko.png",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BDYEVob93xDMu+JWjgy/+0V+fefUPREVwAVugelxSf8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s8sku8kfko"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/owlcarousel/assets/owl.video.play.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BDYEVob93xDMu+JWjgy/+0V+fefUPREVwAVugelxSf8="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/LICENSE",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1090"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j2NdanE/1fPIlaS8ByYIJIservW2YwW7XoxRK6D56w8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j2NdanE/1fPIlaS8ByYIJIservW2YwW7XoxRK6D56w8="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/LICENSE.x0d6diem58",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1090"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j2NdanE/1fPIlaS8ByYIJIservW2YwW7XoxRK6D56w8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x0d6diem58"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/owlcarousel/LICENSE"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j2NdanE/1fPIlaS8ByYIJIservW2YwW7XoxRK6D56w8="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/owl.carousel.8vqiqdzfsy.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\owl.carousel.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hPYqnq606IVznFwz1LW0eYgPSxG9O/wyIZT9gK9NvWQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8vqiqdzfsy"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/owlcarousel/owl.carousel.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hPYqnq606IVznFwz1LW0eYgPSxG9O/wyIZT9gK9NvWQ="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/owl.carousel.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\owl.carousel.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hPYqnq606IVznFwz1LW0eYgPSxG9O/wyIZT9gK9NvWQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hPYqnq606IVznFwz1LW0eYgPSxG9O/wyIZT9gK9NvWQ="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/owl.carousel.min.xre24ck5s9.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42766"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xre24ck5s9"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/owlcarousel/owl.carousel.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/owlcarousel/owl.carousel.min.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42766"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s5TTOyp+xlSmsDfr/aZhg0Gz+JejYr5iTJI8JxG1SkM="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/tempusdominus/css/tempusdominus-bootstrap-4.8n2dly420e.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XPTBwC3SBoWHSmKasAk01c08M6sIA5gF5+sRxqak2Qs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8n2dly420e"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/tempusdominus/css/tempusdominus-bootstrap-4.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XPTBwC3SBoWHSmKasAk01c08M6sIA5gF5+sRxqak2Qs="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XPTBwC3SBoWHSmKasAk01c08M6sIA5gF5+sRxqak2Qs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XPTBwC3SBoWHSmKasAk01c08M6sIA5gF5+sRxqak2Qs="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9060"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jx/a+M/f+IK6cJ8ONDcOiagx3xAbuPuysU29dYjB2do=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jx/a+M/f+IK6cJ8ONDcOiagx3xAbuPuysU29dYjB2do="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.h0uehoon70.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9060"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jx/a+M/f+IK6cJ8ONDcOiagx3xAbuPuysU29dYjB2do=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h0uehoon70"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jx/a+M/f+IK6cJ8ONDcOiagx3xAbuPuysU29dYjB2do="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/tempusdominus/js/moment.min.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\js\\moment.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "326657"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VrmtNHAdGzjNsUNtWYG55xxE9xDTz4gF63x/prKXKH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VrmtNHAdGzjNsUNtWYG55xxE9xDTz4gF63x/prKXKH0="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/tempusdominus/js/moment.min.u3a2f625v3.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\js\\moment.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "326657"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VrmtNHAdGzjNsUNtWYG55xxE9xDTz4gF63x/prKXKH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u3a2f625v3"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/tempusdominus/js/moment.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VrmtNHAdGzjNsUNtWYG55xxE9xDTz4gF63x/prKXKH0="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/tempusdominus/js/moment-timezone.min.eeexwixyll.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jv+5wei4zCofi7M6D+HbGcXbFBOsshNv+aIJSodBGhM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eeexwixyll"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/tempusdominus/js/moment-timezone.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jv+5wei4zCofi7M6D+HbGcXbFBOsshNv+aIJSodBGhM="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/tempusdominus/js/moment-timezone.min.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jv+5wei4zCofi7M6D+HbGcXbFBOsshNv+aIJSodBGhM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jv+5wei4zCofi7M6D+HbGcXbFBOsshNv+aIJSodBGhM="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/tempusdominus/js/tempusdominus-bootstrap-4.94qvvqzebk.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116542"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+WyHOpyfq51D1gs4h2b31GTCneSYQ22QLTmtEdjVvqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "94qvvqzebk"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/tempusdominus/js/tempusdominus-bootstrap-4.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+WyHOpyfq51D1gs4h2b31GTCneSYQ22QLTmtEdjVvqA="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "116542"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+WyHOpyfq51D1gs4h2b31GTCneSYQ22QLTmtEdjVvqA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+WyHOpyfq51D1gs4h2b31GTCneSYQ22QLTmtEdjVvqA="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.5bii02sqr4.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56879"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z0oKYg6xiLq3yJGsp/LsY9XykbweQlHl42jHv2XTBz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5bii02sqr4"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z0oKYg6xiLq3yJGsp/LsY9XykbweQlHl42jHv2XTBz4="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56879"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z0oKYg6xiLq3yJGsp/LsY9XykbweQlHl42jHv2XTBz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z0oKYg6xiLq3yJGsp/LsY9XykbweQlHl42jHv2XTBz4="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/waypoints/links.php",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\waypoints\\links.php",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/B0WGFVk+67I8B6rSY+WPQ+knhNbPz76gt6aXH8WPOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/B0WGFVk+67I8B6rSY+WPQ+knhNbPz76gt6aXH8WPOU="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/waypoints/links.s65facuhh6.php",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\waypoints\\links.php",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/B0WGFVk+67I8B6rSY+WPQ+knhNbPz76gt6aXH8WPOU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s65facuhh6"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/waypoints/links.php"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/B0WGFVk+67I8B6rSY+WPQ+knhNbPz76gt6aXH8WPOU="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/waypoints/waypoints.min.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\waypoints\\waypoints.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"No2qtnsaWysoAu27rHmiqkupkqLr+cZ7mK14TYAEAYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-No2qtnsaWysoAu27rHmiqkupkqLr+cZ7mK14TYAEAYw="
+        }
+      ]
+    },
+    {
+      "Route": "account/lib/waypoints/waypoints.min.uydiqv09h2.js",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\ScholarProject\\ScholarProject.MVC\\wwwroot\\account\\lib\\waypoints\\waypoints.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"No2qtnsaWysoAu27rHmiqkupkqLr+cZ7mK14TYAEAYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 26 Feb 2024 07:50:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uydiqv09h2"
+        },
+        {
+          "Name": "label",
+          "Value": "account/lib/waypoints/waypoints.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-No2qtnsaWysoAu27rHmiqkupkqLr+cZ7mK14TYAEAYw="
+        }
+      ]
+    }
+  ]
+}

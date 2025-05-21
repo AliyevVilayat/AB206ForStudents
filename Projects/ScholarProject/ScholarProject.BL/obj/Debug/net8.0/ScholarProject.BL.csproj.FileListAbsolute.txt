@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ScholarProject\ScholarProject.BL\bin\Debug\net8.0\ScholarProject.BL.deps.json
+C:\Users\User\source\repos\ScholarProject\ScholarProject.BL\bin\Debug\net8.0\ScholarProject.BL.dll
+C:\Users\User\source\repos\ScholarProject\ScholarProject.BL\bin\Debug\net8.0\ScholarProject.BL.pdb
+C:\Users\User\source\repos\ScholarProject\ScholarProject.BL\bin\Debug\net8.0\ScholarProject.DAL.dll
+C:\Users\User\source\repos\ScholarProject\ScholarProject.BL\bin\Debug\net8.0\ScholarProject.DAL.pdb
+C:\Users\User\source\repos\ScholarProject\ScholarProject.BL\obj\Debug\net8.0\ScholarProject.BL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ScholarProject\ScholarProject.BL\obj\Debug\net8.0\ScholarProject.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ScholarProject\ScholarProject.BL\obj\Debug\net8.0\ScholarProject.BL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ScholarProject\ScholarProject.BL\obj\Debug\net8.0\ScholarProject.BL.AssemblyInfo.cs
+C:\Users\User\source\repos\ScholarProject\ScholarProject.BL\obj\Debug\net8.0\ScholarProject.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ScholarProject\ScholarProject.BL\obj\Debug\net8.0\ScholarP.7FE6A994.Up2Date
+C:\Users\User\source\repos\ScholarProject\ScholarProject.BL\obj\Debug\net8.0\ScholarProject.BL.dll
+C:\Users\User\source\repos\ScholarProject\ScholarProject.BL\obj\Debug\net8.0\refint\ScholarProject.BL.dll
+C:\Users\User\source\repos\ScholarProject\ScholarProject.BL\obj\Debug\net8.0\ScholarProject.BL.pdb
+C:\Users\User\source\repos\ScholarProject\ScholarProject.BL\obj\Debug\net8.0\ref\ScholarProject.BL.dll
