@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\AB206GameStoreAPI\AB206GameStoreAPI.BL\bin\Debug\net8.0\AB206GameStoreAPI.BL.deps.json
+C:\Users\User\source\repos\AB206GameStoreAPI\AB206GameStoreAPI.BL\bin\Debug\net8.0\AB206GameStoreAPI.BL.dll
+C:\Users\User\source\repos\AB206GameStoreAPI\AB206GameStoreAPI.BL\bin\Debug\net8.0\AB206GameStoreAPI.BL.pdb
+C:\Users\User\source\repos\AB206GameStoreAPI\AB206GameStoreAPI.BL\bin\Debug\net8.0\AB206GameStoreAPI.DAL.dll
+C:\Users\User\source\repos\AB206GameStoreAPI\AB206GameStoreAPI.BL\bin\Debug\net8.0\AB206GameStoreAPI.DAL.pdb
+C:\Users\User\source\repos\AB206GameStoreAPI\AB206GameStoreAPI.BL\obj\Debug\net8.0\AB206GameStoreAPI.BL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AB206GameStoreAPI\AB206GameStoreAPI.BL\obj\Debug\net8.0\AB206GameStoreAPI.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AB206GameStoreAPI\AB206GameStoreAPI.BL\obj\Debug\net8.0\AB206GameStoreAPI.BL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AB206GameStoreAPI\AB206GameStoreAPI.BL\obj\Debug\net8.0\AB206GameStoreAPI.BL.AssemblyInfo.cs
+C:\Users\User\source\repos\AB206GameStoreAPI\AB206GameStoreAPI.BL\obj\Debug\net8.0\AB206GameStoreAPI.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AB206GameStoreAPI\AB206GameStoreAPI.BL\obj\Debug\net8.0\AB206Gam.E6044A28.Up2Date
+C:\Users\User\source\repos\AB206GameStoreAPI\AB206GameStoreAPI.BL\obj\Debug\net8.0\AB206GameStoreAPI.BL.dll
+C:\Users\User\source\repos\AB206GameStoreAPI\AB206GameStoreAPI.BL\obj\Debug\net8.0\refint\AB206GameStoreAPI.BL.dll
+C:\Users\User\source\repos\AB206GameStoreAPI\AB206GameStoreAPI.BL\obj\Debug\net8.0\AB206GameStoreAPI.BL.pdb
+C:\Users\User\source\repos\AB206GameStoreAPI\AB206GameStoreAPI.BL\obj\Debug\net8.0\ref\AB206GameStoreAPI.BL.dll

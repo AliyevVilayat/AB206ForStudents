@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "AB206GameStoreAPI.API.Controllers.TrendingGamesController",
+    "Method": "GetAll",
+    "RelativePath": "api/TrendingGames",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AB206GameStoreAPI.API.Controllers.TrendingGamesController",
+    "Method": "Create",
+    "RelativePath": "api/TrendingGames",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trendingGame",
+        "Type": "AB206GameStoreAPI.DAL.Entities.TrendingGame",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AB206GameStoreAPI.API.Controllers.TrendingGamesController",
+    "Method": "Update",
+    "RelativePath": "api/TrendingGames",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "trendingGame",
+        "Type": "AB206GameStoreAPI.DAL.Entities.TrendingGame",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AB206GameStoreAPI.API.Controllers.TrendingGamesController",
+    "Method": "Delete",
+    "RelativePath": "api/TrendingGames",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AB206GameStoreAPI.API.Controllers.TrendingGamesController",
+    "Method": "GetById",
+    "RelativePath": "api/TrendingGames/GetById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

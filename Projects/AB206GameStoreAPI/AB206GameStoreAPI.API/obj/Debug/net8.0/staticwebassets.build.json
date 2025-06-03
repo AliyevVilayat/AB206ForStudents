@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZiirYpvh+d0I5hdTzB8jr/HbzofX5IZg6j1NeLIVkqc=",
+  "Source": "AB206GameStoreAPI.API",
+  "BasePath": "_content/AB206GameStoreAPI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

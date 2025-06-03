@@ -1,0 +1,6 @@
+@AB206GameStoreAPI.API_HostAddress = http://localhost:5258
+
+GET {{AB206GameStoreAPI.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
